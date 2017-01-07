@@ -1,0 +1,22 @@
+iterate through indicators and set them equal to 1 if that prototype is in fact the closest one to that instance and the min_dist < lambda
+
+for (i = 0; i < indicators.length; i++):
+	if 
+
+
+confirmed works:
+- finding initial mean of all instances
+
+
+
+
+
+NAIVE BAYES
+
+confirmed works:
+- initializing mean and variance
+- ln_gaussian probability
+
+pretty sure works:
+- initializing phi works
+- initializing S works

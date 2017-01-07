@@ -1,0 +1,13 @@
+
+for instance in instances:
+
+    predict(instance)
+
+
+
+
+
+
+def predict(instance):
+    # iterate through all of the possible labels to find one that gives the max
+    for i in range(1, num_poss_labels + 1):
